@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**hachisec/hachisec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**root@hachisec**
 
 - 🔭 I’m currently working on Password Generator...
 - 🌱 I’m currently learning C ...
