@@ -1,7 +1,4 @@
 ## Hi there 👋
 
 root@hachisec
-
-I’m currently working on Password Generator
-
-I’m currently learning C
+OS: MANJARO
