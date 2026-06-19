@@ -1,5 +1,6 @@
 Gabriel@github
 ----------------------
+
 OS: Manjaro
 Host: TechCorp
 Title: Cybersec Student
