@@ -1,3 +1,4 @@
+```
 Gabriel@github
 ----------------------
 OS: Manjaro
@@ -6,3 +7,4 @@ Title: Cybersec Student
 Editor: Nvim
 Languages: C | C# | Python
 Learning: C
+```
