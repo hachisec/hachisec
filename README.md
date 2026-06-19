@@ -1,7 +1,7 @@
 Gabriel@github
 ----------------------
 OS: Manjaro
-Host: TechCorp
+Host: Church
 Title: Cybersec Student
 Editor: Nvim
 Languages: C | C# | Python
